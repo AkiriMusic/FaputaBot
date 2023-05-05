@@ -10,12 +10,4 @@
     <ItemGroup>
       <PackageReference Include="Discord.Net" Version="3.10.0" />
     </ItemGroup>
-    
-    <ItemGroup>
-        <ContentWithTargetPath Include="token.txt">
-            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-            <TargetPath>%(Filename)%(Extension)</TargetPath>
-        </ContentWithTargetPath>
-    </ItemGroup>
-
 </Project>
