@@ -159,7 +159,6 @@ public class Images
         "https://cdn.donmai.us/original/2c/c1/__faputa_made_in_abyss_drawn_by_ebimomo__2cc196d9b061166d0d1bb22dfebe9e17.png",
         "https://cdn.donmai.us/original/24/49/__faputa_made_in_abyss_drawn_by_funeralll_black__24496ebbbbe97315f3b96f3b805df3bf.png",
         "https://cdn.donmai.us/original/3b/5f/__faputa_made_in_abyss_drawn_by_continuo0226__3b5ff1dcb8e4d52b934d5161e6a2475a.jpg",
-        "https://cdn.donmai.us/original/ba/75/__faputa_made_in_abyss_drawn_by_bandam__ba75ea451907b22046c6180fcef02660.jpg",
         "https://cdn.donmai.us/original/f8/75/__faputa_made_in_abyss_drawn_by_senme79897444__f875c5360bf7b2028ab75c7685b09b22.jpg",
         "https://cdn.donmai.us/original/3d/f9/__regu_and_faputa_made_in_abyss_drawn_by_funeralll_black__3df97fdd09d9710965476fd30bc0595a.jpg",
         "https://cdn.donmai.us/original/fc/9e/__faputa_made_in_abyss_drawn_by_funeralll_black__fc9e9cfbc83b4fbb863ed56740fef9a8.jpg",
@@ -311,6 +310,7 @@ public class Images
         "https://twitter.com/605_hinagon/status/1643263141432954880?t=-ClUEhloeuN8oRDclX6bhQ&s=19",
         "https://twitter.com/lup_kanjo/status/1643230404571455489",
         "https://twitter.com/sekaineko_001/status/1642459083067490305",
+        "https://twitter.com/alfielolss/status/1654172827187019798",
         "https://twitter.com/pleasedevourme/status/1654254147070480385?s=46&t=CEAqUwE8l68OOPI2iZOsqQ",
         "https://cdn.donmai.us/original/a4/30/__nanachi_and_faputa_made_in_abyss_drawn_by_potapon__a43083c342aac03d3a5bbad56d329b01.jpg"
     };
