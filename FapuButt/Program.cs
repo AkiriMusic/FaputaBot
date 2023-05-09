@@ -41,6 +41,7 @@ public static class Faputa
             Description = "Amount of Fapu",
             Type = ApplicationCommandOptionType.Integer
         });
+        await client.CreateGlobalApplicationCommandAsync(sosuCommand.Build());
         var nnaaCommand = new SlashCommandBuilder()
         {
             Name = "nnaa",
@@ -52,7 +53,7 @@ public static class Faputa
             Description = "Amount of Fwuff",
             Type = ApplicationCommandOptionType.Integer
         });
-        await client.CreateGlobalApplicationCommandAsync(sosuCommand.Build());
+        await client.CreateGlobalApplicationCommandAsync(nnaaCommand.Build());
     }
 
 
