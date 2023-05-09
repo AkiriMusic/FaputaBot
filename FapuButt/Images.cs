@@ -2,6 +2,15 @@
 
 public class Images
 {
+    public static string [] Nnaa =
+    {
+        "https://cdn.discordapp.com/attachments/804838779478999060/1105500561991815168/N2tsd3NPL2VpaHgxcEc4cy9TOGx6bEZYLzEvbGlac3J5RWkvNVRlQnArQT0.png",
+        "https://cdn.discordapp.com/attachments/804838779478999060/1105500539745206284/a31a0148280989ad57c6a7d3eb9fe0a6.png",
+        "https://cdn.discordapp.com/attachments/804838779478999060/1105499980074057869/91cf1e9853f72274f75028e927d5fbc9.png",
+        "https://twitter.com/Yuriusagi4/status/1655841521084792834",
+        "https://cdn.discordapp.com/attachments/1037500240372178956/1104761548406267994/FvhGgfHaYAIF1Le.jpg"
+    }
+
     public static string[] Sosu = {
         "https://cdn.donmai.us/original/c2/0c/__nanachi_faputa_mitty_vueko_belafu_and_4_more_made_in_abyss_drawn_by_mumu_yu_mu__c20cee84511fa64ae4fbb162165d4fb8.jpg",
         "https://cdn.donmai.us/original/e9/f5/__faputa_made_in_abyss_drawn_by_kageimo__e9f50efe24728fae3a3c233d5913f779.jpg",
@@ -210,7 +219,7 @@ public class Images
         "https://cdn.donmai.us/original/a1/12/__faputa_made_in_abyss_drawn_by_chikichi__a112efc1f67395ebb669fe221299be8b.jpg",
         "https://cdn.donmai.us/original/90/70/__faputa_made_in_abyss_drawn_by_kuroboshi_kouhaku__90703ba112e606ece21fe12370a36ae9.jpg",
         "https://cdn.donmai.us/original/ae/40/__faputa_made_in_abyss_drawn_by_yinpa_wanone500511__ae402a9fe9a7b9785e32bb711bc862f2.jpg",
-        "https://twitter.com/encientea/status/1569155577468841984",
+        "https://fxtwitter.com/encientea/status/1569155577468841984",
         "https://twitter.com/alfielolss/status/1654172827187019798",
         "https://twitter.com/EllenCarbon/status/1654422412061212675?s=20",
         "https://twitter.com/Ss_sl99/status/1654438873123135489?s=20",
