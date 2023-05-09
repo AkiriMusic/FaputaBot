@@ -26,7 +26,7 @@ public static class Faputa
         await Task.Delay(-1);
 
     }
-
+    
     private static async Task Ready()
     {
         Logger.Log("Ready");
@@ -39,6 +39,17 @@ public static class Faputa
         {
             Name = "count",
             Description = "Amount of Fapu",
+            Type = ApplicationCommandOptionType.Integer
+        });
+        var nnaaCommand = new SlashCommandBuilder()
+        {
+            Name = "nnaa",
+            Description = "もふもふ"
+        };
+        nnaaCommand.AddOption(new SlashCommandOptionBuilder()
+        {
+            Name = "count",
+            Description = "Amount of Fwuff",
             Type = ApplicationCommandOptionType.Integer
         });
         await client.CreateGlobalApplicationCommandAsync(sosuCommand.Build());
